@@ -1,0 +1,22 @@
+{
+  "name": "nagoyahackathon-rejected",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap-beta": "^4.0.0-beta",
+    "froala-design-blocks": "^1.0.1",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "froala-editor": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hackathon"
+  ],
+  "author": "Shoichi Aizawa",
+  "license": "MIT"
+}
